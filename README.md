@@ -1,7 +1,7 @@
 # BoomWeather
 
 BoomWeather is a simple and visually appealing weather application built using HTML, CSS, and JavaScript. It provides users with current weather information in a specific location. 
-
+![Screenshot 2024-08-02 193709](https://github.com/user-attachments/assets/b7f9b830-41cc-407d-b698-5aeb74dbb162)
 
 ## Features
 
